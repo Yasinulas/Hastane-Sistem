@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\abstract\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\abstract\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\entities\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\entities\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\entities\\hastaney\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\entities\\hastaney\u00F6netimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\helpers\\raporyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\helpers\\raporyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\helpers\\islemdenetleyici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\helpers\\islemdenetleyici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\enums\\hastadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\enums\\hastadurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\entities\\vardiya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\entities\\vardiya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\entities\\muayene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\entities\\muayene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\entities\\kan testi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\entities\\kan testi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\entities\\hemsire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\entities\\hemsire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\entities\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\entities\\doktor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\entities\\ameliyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\entities\\ameliyat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\abstract\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\abstract\\islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\abstract\\ihaz\u0131rlanabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\abstract\\ihaz\u0131rlanabilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\abstract\\iharaketedebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\abstract\\iharaketedebilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|c:\\users\\yasin ula\u015F\\desktop\\hastane sistem\\hastane sistem\\abstract\\ibilgiyazd\u0131r\u0131labilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3031C629-B1B2-456B-B04F-B9034C17990D}|Hastane Sistem\\Hastane Sistem.csproj|solutionrelative:hastane sistem\\abstract\\ibilgiyazd\u0131r\u0131labilir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IslemDenetleyici.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Helpers\\IslemDenetleyici.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Helpers\\IslemDenetleyici.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Helpers\\IslemDenetleyici.cs",
+              "RelativeToolTip": "Hastane Sistem\\Helpers\\IslemDenetleyici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:08:51.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HastaDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Enums\\HastaDurumu.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Enums\\HastaDurumu.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Enums\\HastaDurumu.cs",
+              "RelativeToolTip": "Hastane Sistem\\Enums\\HastaDurumu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:08:05.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vardiya.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Vardiya.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Entities\\Vardiya.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Vardiya.cs",
+              "RelativeToolTip": "Hastane Sistem\\Entities\\Vardiya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:07:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Muayene.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Muayene.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Entities\\Muayene.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Muayene.cs",
+              "RelativeToolTip": "Hastane Sistem\\Entities\\Muayene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:06:54.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kan Testi.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Kan Testi.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Entities\\Kan Testi.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Kan Testi.cs",
+              "RelativeToolTip": "Hastane Sistem\\Entities\\Kan Testi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:06:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HastaneY\u00F6netimi.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\HastaneY\u00F6netimi.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Entities\\HastaneY\u00F6netimi.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\HastaneY\u00F6netimi.cs",
+              "RelativeToolTip": "Hastane Sistem\\Entities\\HastaneY\u00F6netimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:05:52.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Hasta.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Entities\\Hasta.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Hasta.cs",
+              "RelativeToolTip": "Hastane Sistem\\Entities\\Hasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:05:21.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Program.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Program.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Program.cs",
+              "RelativeToolTip": "Hastane Sistem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:53:34.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\Personel.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Abstract\\Personel.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\Personel.cs",
+              "RelativeToolTip": "Hastane Sistem\\Abstract\\Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:04:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RaporYonetimi.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Helpers\\RaporYonetimi.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Helpers\\RaporYonetimi.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Helpers\\RaporYonetimi.cs",
+              "RelativeToolTip": "Hastane Sistem\\Helpers\\RaporYonetimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:09:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Hemsire.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Hemsire.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Entities\\Hemsire.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Hemsire.cs",
+              "RelativeToolTip": "Hastane Sistem\\Entities\\Hemsire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:06:06.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doktor.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Doktor.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Entities\\Doktor.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Doktor.cs",
+              "RelativeToolTip": "Hastane Sistem\\Entities\\Doktor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:05:15.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ameliyat.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Ameliyat.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Entities\\Ameliyat.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Entities\\Ameliyat.cs",
+              "RelativeToolTip": "Hastane Sistem\\Entities\\Ameliyat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:04:56.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Islem.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\Islem.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Abstract\\Islem.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\Islem.cs",
+              "RelativeToolTip": "Hastane Sistem\\Abstract\\Islem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:03:56.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHaz\u0131rlanabilir.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\IHaz\u0131rlanabilir.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Abstract\\IHaz\u0131rlanabilir.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\IHaz\u0131rlanabilir.cs",
+              "RelativeToolTip": "Hastane Sistem\\Abstract\\IHaz\u0131rlanabilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:03:34.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHaraketEdebilir.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\IHaraketEdebilir.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Abstract\\IHaraketEdebilir.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\IHaraketEdebilir.cs",
+              "RelativeToolTip": "Hastane Sistem\\Abstract\\IHaraketEdebilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:03:14.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBilgiYazd\u0131r\u0131labilir.cs",
+              "DocumentMoniker": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\IBilgiYazd\u0131r\u0131labilir.cs",
+              "RelativeDocumentMoniker": "Hastane Sistem\\Abstract\\IBilgiYazd\u0131r\u0131labilir.cs",
+              "ToolTip": "C:\\Users\\yasin ula\u015F\\Desktop\\Hastane Sistem\\Hastane Sistem\\Abstract\\IBilgiYazd\u0131r\u0131labilir.cs",
+              "RelativeToolTip": "Hastane Sistem\\Abstract\\IBilgiYazd\u0131r\u0131labilir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:02:16.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

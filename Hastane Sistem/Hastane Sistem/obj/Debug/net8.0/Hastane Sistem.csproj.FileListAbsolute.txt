@@ -1,0 +1,14 @@
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\Hastane Sistem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\Hastane Sistem.AssemblyInfoInputs.cache
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\Hastane Sistem.AssemblyInfo.cs
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\Hastane Sistem.csproj.CoreCompileInputs.cache
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\bin\Debug\net8.0\Hastane Sistem.exe
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\bin\Debug\net8.0\Hastane Sistem.deps.json
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\bin\Debug\net8.0\Hastane Sistem.runtimeconfig.json
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\bin\Debug\net8.0\Hastane Sistem.dll
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\bin\Debug\net8.0\Hastane Sistem.pdb
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\Hastane Sistem.dll
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\refint\Hastane Sistem.dll
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\Hastane Sistem.pdb
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\Hastane Sistem.genruntimeconfig.cache
+C:\Users\yasin ulaş\Desktop\Hastane Sistem\Hastane Sistem\obj\Debug\net8.0\ref\Hastane Sistem.dll
